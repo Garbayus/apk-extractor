@@ -2,7 +2,8 @@ Açık kaynak ne güzel kıymet
 ----------------------------
 How wonderful open source is
 
-uygulamanın arayüz içeriği      the app's interface content
+uygulamanın arayüz içeriği -- the app's interface content
+
 
 <img width="1080" height="2400" alt="Screenshot_20260605-215016_extractor-split" src="https://github.com/user-attachments/assets/58e365c1-f588-48b0-bb25-c3566b4d9a8a" />
 <img width="1080" height="2400" alt="Screenshot_20260605-214942_extractor-split" src="https://github.com/user-attachments/assets/cf5d1b29-767f-4425-ad28-529c750970a7" />
