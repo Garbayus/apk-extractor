@@ -1,5 +1,3 @@
-Açık kaynak ne güzel kıymet
-----------------------------
 How wonderful open source is
 
 uygulamanın arayüz içeriği -- the app's interface content
