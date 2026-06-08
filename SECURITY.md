@@ -1,4 +1,4 @@
-Proje başka yerlerde kopyalanmış değiştirimiş indirmeyin sadece github üzerinden indirin Resmi sürüm burdan dağıtılacaktır kopyalayan veya kendi  apk sunanları şikayet edin
+Proje başka yerlerde kopyalanmış değiştirimiş indirmeyin sadece github üzerinden indirin Resmi sürüm burdan dağıtılacaktır kopyalayan veya kendi  apk sunanları şikayet edin virüs ile uğraşmayın
 
-Do not download modified versions of the project that have been copied from other sources; download it from GitHub. The official version will be distributed here   Report those who copy or offer APKs like theirs
+Do not download modified versions of the project that have been copied from other sources; download it from GitHub. The official version will be distributed here   Report those who copy or offer APKs like theirs Don't mess with the virus
 
